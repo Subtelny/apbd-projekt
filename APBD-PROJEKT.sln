@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD-PROJEKT", "APBD-PROJEKT\APBD-PROJEKT.csproj", "{49053380-3D1A-4409-9A4A-2BA16C3E2A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD-PROJEKT.Tests", "APBD-PROJEKT.Tests\APBD-PROJEKT.Tests.csproj", "{CC885962-419C-4735-BF8F-01B450E0953C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49053380-3D1A-4409-9A4A-2BA16C3E2A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49053380-3D1A-4409-9A4A-2BA16C3E2A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49053380-3D1A-4409-9A4A-2BA16C3E2A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49053380-3D1A-4409-9A4A-2BA16C3E2A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC885962-419C-4735-BF8F-01B450E0953C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC885962-419C-4735-BF8F-01B450E0953C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC885962-419C-4735-BF8F-01B450E0953C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC885962-419C-4735-BF8F-01B450E0953C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
